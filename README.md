@@ -17,7 +17,6 @@
 <tr>
 <th align="center">Home screen</th>
 <th align="center">Splash screen</th>
-  <th align="center">another img</th>
 
 </tr>
 </thead>
@@ -36,13 +35,7 @@
 
   </a></td>
   
-  <td align="center">
-  <a target="_blank" rel="" href="">
-  <img src="https://user-images.githubusercontent.com/69757558/134502064-6bdb2d73-4705-4d25-818f-6db0becbe4ef.png" alt="Css Logo" with="200" height="400"/>
-  <img src="https://user-images.githubusercontent.com/69757558/134502070-9999d040-3bb6-455a-9502-c83c4539b94c.png" alt="Css Logo" with="200" height="400"/>
-
-  </a></td>
-  
+ 
   
   
 </tr>
@@ -81,6 +74,32 @@
 </tr>
 </tbody>
 </table>
+
+
+<table>
+<thead>
+<tr>
+  <th align="center">another img</th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+  
+  <td align="center">
+  <a target="_blank" rel="" href="">
+  <img src="https://user-images.githubusercontent.com/69757558/134502064-6bdb2d73-4705-4d25-818f-6db0becbe4ef.png" alt="Css Logo" with="200" height="400"/>
+  <img src="https://user-images.githubusercontent.com/69757558/134502070-9999d040-3bb6-455a-9502-c83c4539b94c.png" alt="Css Logo" with="200" height="400"/>
+
+  </a></td>
+  
+</tr>
+</tbody>
+</table>
+
+
+ 
+  
 
 <h1> 🐱‍👤 made with algeria 🖤 </h1>
 
